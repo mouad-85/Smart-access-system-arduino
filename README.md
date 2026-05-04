@@ -188,5 +188,7 @@ Wokwi is currently used as the primary simulation environment for rapid prototyp
 ##  Author
 
 **Mouad Hnini**
+
 Microprocessors Lab Final Project
+
 Ostim Technical University
