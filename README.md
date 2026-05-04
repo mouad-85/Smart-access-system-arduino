@@ -152,17 +152,41 @@ This project goes beyond a simple automatic sensor system by implementing:
 
 * `code/` → Arduino source code
 * `circuit/` → Wiring diagrams and hardware images
-* `proteus/` → Simulation files
+* `Wokwi/` → Simulation files
 * `docs/` → Reports and documentation
 
 
-##  Project Status
+##  Current Progress
+### Completed:
+Final project concept development
+Advanced proposal submission
+GitHub repository setup
+Wokwi simulation environment selection
+Full circuit simulation completed
+PIR + Ultrasonic sensor integration
+Functional Arduino code development
+Successful testing of:
+Normal Mode
+Access Mode
+Alert Mode
+### In Progress:
+Physical hardware implementation using real Arduino Uno components
+Breadboard circuit assembly
+Real-world testing and debugging
+### Next Steps:
+Hardware validation
+Performance refinement
+Final project report
+Final presentation
 
-Project proposal upgraded and approved conceptually for advanced implementation. Hardware integration and software development in progress.
+### Simulation Platform
+Wokwi is currently used as the primary simulation environment for rapid prototyping, logic validation, and system testing before physical implementation.
 
+ ### Wokwi simulation link:
+ https://wokwi.com/projects/463032224010863617
 
 ##  Author
 
 **Mouad Hnini**
-
-
+Microprocessors Lab Final Project
+Ostim Technical University
